@@ -1,0 +1,14 @@
+C:\Users\lab1pc9\Music\Hamza\result\result\bin\Debug\net8.0\result.exe
+C:\Users\lab1pc9\Music\Hamza\result\result\bin\Debug\net8.0\result.deps.json
+C:\Users\lab1pc9\Music\Hamza\result\result\bin\Debug\net8.0\result.runtimeconfig.json
+C:\Users\lab1pc9\Music\Hamza\result\result\bin\Debug\net8.0\result.dll
+C:\Users\lab1pc9\Music\Hamza\result\result\bin\Debug\net8.0\result.pdb
+C:\Users\lab1pc9\Music\Hamza\result\result\obj\Debug\net8.0\result.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab1pc9\Music\Hamza\result\result\obj\Debug\net8.0\result.AssemblyInfoInputs.cache
+C:\Users\lab1pc9\Music\Hamza\result\result\obj\Debug\net8.0\result.AssemblyInfo.cs
+C:\Users\lab1pc9\Music\Hamza\result\result\obj\Debug\net8.0\result.csproj.CoreCompileInputs.cache
+C:\Users\lab1pc9\Music\Hamza\result\result\obj\Debug\net8.0\result.dll
+C:\Users\lab1pc9\Music\Hamza\result\result\obj\Debug\net8.0\refint\result.dll
+C:\Users\lab1pc9\Music\Hamza\result\result\obj\Debug\net8.0\result.pdb
+C:\Users\lab1pc9\Music\Hamza\result\result\obj\Debug\net8.0\result.genruntimeconfig.cache
+C:\Users\lab1pc9\Music\Hamza\result\result\obj\Debug\net8.0\ref\result.dll
